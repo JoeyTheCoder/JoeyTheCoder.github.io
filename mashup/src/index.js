@@ -1,16 +1,8 @@
-
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-
-/**
- * @author: Joel Sahli
- * @version: 2.0
- */
-
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
