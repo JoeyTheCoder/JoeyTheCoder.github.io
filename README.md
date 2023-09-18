@@ -1,1 +1,1 @@
-# bucketbird
+# simple-cv
